@@ -1,12 +1,11 @@
-T1PdFitT1.m Basic Users Guide
+T1PdFitT1.m Requirements Basic Users Guide
 
 Necessary Items:
-1) All code in the additions01, niiproc, spm8 folders 
+1) All Associated Dependencies for your code
 2) T1PdFitT1.m
 
 Extra: 
 1) T1PdFitT1_wrapper.m
-2) NII_T1PD_inputPara.m
 
 Intructions for Use (Basic)
 
@@ -22,7 +21,6 @@ The T1PdFitT1.m function is a basic MATLAB function
 	pd: proton density map with the size of x*y*z
 	
 Quick Information: 
-1) Always be sure that additions01, niiproc, spm8 folders are in the MATLAB path before use or the code will crash
 2) the program runs much faster on local storage 
 3) A file system parser has been created for the quick batch processing of T1 maps called T1PdFitT1_wrapper.m 
 	this will allow for processing of T1 maps without manually loading the acquired images into memory
