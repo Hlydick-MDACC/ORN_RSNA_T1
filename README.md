@@ -6,7 +6,9 @@ For generation of T1 Maps utilize README_T1PdFitT1_wrapper.txt and the associate
 Please note that the code will crash without an associated T1PdFIT.m that generates T1 Maps. this is internal developed function that was not included as I did not create it. 
  
 See README_T1PdFitT1.txt for the required functionality of this code for you to provide. 
+
 For extraction of Subregions utilize T1_MultipleRegions_to_Excell_wrapper.m and its associated input file setup
+
 For data analysis and results utilize Analysis_README.txt and the associated files defined there
 
 No data is present in this repository due to HIPAA. 
